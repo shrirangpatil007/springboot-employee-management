@@ -60,7 +60,7 @@ Project Structure
 src
 ├── main
 │   ├── java
-│   │   └── net.javaguides.springboot
+│   │   └── com.EMS.employee_management_webapp
 │   │       ├── controller
 │   │       ├── model
 │   │       ├── repository
