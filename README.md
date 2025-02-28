@@ -65,13 +65,14 @@ src
 │   │       ├── model
 │   │       ├── repository
 │   │       ├── service
-│   │       └── SpringbootThymeleafCrudWebAppApplication.java
+│   │       └── EmployeeManagementWebappApplication.java
 │   └── resources
 │       ├── templates
 │       │   ├── employees
-│       │   │   ├── list.html
-│       │   │   ├── add.html
-│       │   │   └── edit.html
+│       │   │   ├── login.html
+│       |   |    ├── new_employee.html
+│       |   |    ├── registration.html
+│       |   |    ├── update_employee.html
 │       └── application.properties
 
 ```
